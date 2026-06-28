@@ -113,3 +113,29 @@ analysis/6_1_2_sankey_polycycle.html
 ```
 sna/multilayer_sna.ipynb
 ```
+
+---
+
+# Title
+
+PolyCycle Port — Industrial Symbiosis & Energy Systems Modelling
+
+# Project description
+
+This repository contains the deliverables for the PolyCycle Port project: a multi-plant industrial symbiosis and energy-systems modelling study focused on a petrochemical park in the Port of Antwerp–Bruges. It includes interactive visualisations (Sankey), multilayer social/network analysis, Linny-R models and the final project report.
+
+# Screenshot of Sankey
+
+![Sankey screenshot](analysis/assets/sankey_screenshot.png)
+
+# Screenshot of Network Analysis
+
+![Network analysis screenshot](analysis/assets/network_analysis_screenshot.png)
+
+# System Diagram
+
+![System diagram](analysis/assets/system_diagram.png)
+
+# Repository Structure
+
+The repository structure is documented above. Use the "Reproducing the Analysis" section for steps to run notebooks and generate visualisations.
