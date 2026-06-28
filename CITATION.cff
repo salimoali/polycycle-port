@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "PolyCycle Port"
+message: "If you use this work, please cite it."
+authors:
+  - family-names: Ali
+    given-names: Salih
+repository-code: https://github.com/salimoali/polycycle-port
+license: MIT
